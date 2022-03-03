@@ -1,1 +1,0 @@
-# Lesson_4_Store_Structs_On_Program

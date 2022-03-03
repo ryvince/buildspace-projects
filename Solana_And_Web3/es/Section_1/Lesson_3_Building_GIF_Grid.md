@@ -1,1 +1,0 @@
-# Lesson_3_Building_GIF_Grid

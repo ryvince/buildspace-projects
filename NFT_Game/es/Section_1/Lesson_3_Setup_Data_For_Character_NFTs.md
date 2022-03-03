@@ -1,1 +1,0 @@
-# Lesson_3_Setup_Data_For_Character_NFTs

@@ -1,1 +1,0 @@
-# Lesson_2_Minting_NFTs_With_Static_SVGs

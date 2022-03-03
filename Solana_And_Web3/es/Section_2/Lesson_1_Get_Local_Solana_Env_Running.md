@@ -1,1 +1,0 @@
-# Lesson_1_Get_Local_Solana_Env_Running

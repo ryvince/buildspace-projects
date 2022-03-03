@@ -33,7 +33,7 @@ Next, let's head to the terminal (Git Bash will not work). Go ahead and cd to th
 ```bash
 mkdir my-wave-portal
 cd my-wave-portal
-npm init -y
+npm init -ybash
 npm install --save-dev hardhat
 ```
 
